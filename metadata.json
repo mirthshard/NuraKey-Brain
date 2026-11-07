@@ -1,0 +1,12 @@
+{
+  "name": "Remix NuraKey-Brain",
+  "description": "Shared life operating system, knowledge brain, real-time comms, and autonomous AI concierge for Key \u0026 Nura.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
